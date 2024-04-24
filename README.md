@@ -1,2 +1,2 @@
 # dice-roller
-yes.
+the rabbithole of dice
